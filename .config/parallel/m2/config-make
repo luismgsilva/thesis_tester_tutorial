@@ -1,0 +1,6 @@
+# Target libraries are put under this directory:
+TARGET_SUBDIR = arc-elf32
+# Python3 executable name if it exists
+PYTHON = python3
+# Does Python3 exist?  (yes/no).
+HAVE_PYTHON = yes

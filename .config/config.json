@@ -1,0 +1,7 @@
+{
+ "sources": {
+  },
+  "tasks": {
+  },
+  "comparator_agregator": "ruby $var(@CONFIG_SOURCE_PATH)/scripts/agregator.rb -f $var(@AGREGATOR) $var(@OPTIONS)"
+}
